@@ -5,9 +5,12 @@
 If you work on more than one feature at a time, you are guaranteed to multiply your bugs and your anxiety.
 
 ## Making a plan
+button
+img
+shell
 
-1) **Make a drawing of your app. Simple "wireframes"**
-1) **Once you have a drawing, name the HTML elements you'll need to realize your vision**
+
+1) 
 1) **For each HTML element ask: Why do I need this? (i.e., "we need div to display the results in")** 
 1) **Once we know _why_ we need each element, think about how to implement the "Why" as a "How" (i.e., `resultsEl.textContent = newResults`)**
 1) **Find all the 'events' (user clicks, form submit, on load etc) in your app. Ask one by one, "What happens when" for each of these events. Does any state change?**
